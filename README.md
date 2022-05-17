@@ -1,4 +1,4 @@
-Comme toutes les API, REST permet de déplacer des données entre utilisateurs et applications. Par exemple, lorsque vous vous connectez à un site web ou accédez à une application sur votre téléphone, une API aide votre client à communiquer avec le serveur hôte.
+L'API REST est un ensemble de règles qui permet l'interopérabilité entre un client et un serveur. Elle s'appuie sur le protocol robuste HTTP, en échangeant des donnés, dans la majorité des cas, sous le format JSON, qui est à la fois efficace et facilement lisible par l'homme
 <pre>
 Codé par Epsilon
             .-"''-.  _
